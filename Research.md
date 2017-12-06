@@ -31,15 +31,16 @@ Questions for Wednesday:
 
 ## Potential Libraries
 
-1. jsPlumb
 1. jointJS
+1. jsPlumb
 1. GoJS
 
-### jsPlumb
+
+### jointJS
 
 Seems a bit too powerful for what we are trying to build. It does have an AST visualizer that can implement functions, returns, etc. Further, the suggested layout for code mimicry does not seem intuative to me, suggesting it won't seem intuative to a user who has never written code before.
 
-### jointJS
+### jsPlumb
 
 Simple Flowchart builder with underlying JSON structure. Supports React. Looks like it has good documentation. Seems to be customizable. Leaning towards this library. 
 
